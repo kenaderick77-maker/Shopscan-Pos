@@ -1,0 +1,1 @@
+# Shopscan-Pos
